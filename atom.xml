@@ -3,11 +3,11 @@
   <title>Amanyy的博客</title>
   
   <subtitle>记录个人成长与经验分享</subtitle>
-  <link href="http://amancyy.gihub.io/atom.xml" rel="self"/>
+  <link href="https://amancyy.github.io/atom.xml" rel="self"/>
   
-  <link href="http://amancyy.gihub.io/"/>
+  <link href="https://amancyy.github.io/"/>
   <updated>2025-11-24T11:48:14.935Z</updated>
-  <id>http://amancyy.gihub.io/</id>
+  <id>https://amancyy.github.io/</id>
   
   <author>
     <name>Amanyy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>大学三年，我是怎么一步步走上算法这条路的</title>
-    <link href="http://amancyy.gihub.io/2025/11/24/%E5%A4%A7%E5%AD%A6%E4%B8%89%E5%B9%B4%EF%BC%8C%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E6%AD%A5%E6%AD%A5%E8%B5%B0%E4%B8%8A%E7%AE%97%E6%B3%95%E8%BF%99%E6%9D%A1%E8%B7%AF%E7%9A%84/"/>
-    <id>http://amancyy.gihub.io/2025/11/24/%E5%A4%A7%E5%AD%A6%E4%B8%89%E5%B9%B4%EF%BC%8C%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E6%AD%A5%E6%AD%A5%E8%B5%B0%E4%B8%8A%E7%AE%97%E6%B3%95%E8%BF%99%E6%9D%A1%E8%B7%AF%E7%9A%84/</id>
+    <link href="https://amancyy.github.io/2025/11/24/%E5%A4%A7%E5%AD%A6%E4%B8%89%E5%B9%B4%EF%BC%8C%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E6%AD%A5%E6%AD%A5%E8%B5%B0%E4%B8%8A%E7%AE%97%E6%B3%95%E8%BF%99%E6%9D%A1%E8%B7%AF%E7%9A%84/"/>
+    <id>https://amancyy.github.io/2025/11/24/%E5%A4%A7%E5%AD%A6%E4%B8%89%E5%B9%B4%EF%BC%8C%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E4%B8%80%E6%AD%A5%E6%AD%A5%E8%B5%B0%E4%B8%8A%E7%AE%97%E6%B3%95%E8%BF%99%E6%9D%A1%E8%B7%AF%E7%9A%84/</id>
     <published>2025-11-24T08:55:29.000Z</published>
     <updated>2025-11-24T11:48:14.935Z</updated>
     
@@ -34,16 +34,16 @@
     
     
     
-    <category term="成长" scheme="http://amancyy.gihub.io/categories/%E6%88%90%E9%95%BF/"/>
+    <category term="成长" scheme="https://amancyy.github.io/categories/%E6%88%90%E9%95%BF/"/>
     
     
-    <category term="大学生活" scheme="http://amancyy.gihub.io/tags/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/"/>
+    <category term="大学生活" scheme="https://amancyy.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="个人经历" scheme="http://amancyy.gihub.io/tags/%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86/"/>
+    <category term="个人经历" scheme="https://amancyy.github.io/tags/%E4%B8%AA%E4%BA%BA%E7%BB%8F%E5%8E%86/"/>
     
-    <category term="计算机专业" scheme="http://amancyy.gihub.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/"/>
+    <category term="计算机专业" scheme="https://amancyy.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A/"/>
     
-    <category term="深度学习" scheme="http://amancyy.gihub.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    <category term="深度学习" scheme="https://amancyy.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
