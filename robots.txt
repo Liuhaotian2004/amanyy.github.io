@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amancyy.github.io//sitemap.xml
